@@ -10,6 +10,10 @@ import Foundation
 
 var a=10
 var b=3
+var i:Int
+for i in 1...10{
+    print("Udhay")
+}
 
 func add()-> Int{
     return a+b;
