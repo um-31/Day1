@@ -5,7 +5,7 @@
 //  Created by MacStudent on 2019-06-06.
 //  Copyright © 2019 MacStudent. All rights reserved.
 //
-
+//clone from git hub
 import Foundation
 
 var a=10
